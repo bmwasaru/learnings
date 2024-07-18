@@ -1,1 +1,1 @@
-Some scripts that I use to learn new things
+Here lies all the things I am learning on the go.
